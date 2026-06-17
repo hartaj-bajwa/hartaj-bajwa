@@ -4,16 +4,15 @@
 
 I am passionate about building scalable software solutions at the intersection of **Cloud Engineering**, **Backend Development**, and **Artificial Intelligence**.
 
-Currently working as an Automation Specialist, where I design cloud-based workflows, develop Python backend services, and manage IT infrastructure.
+Currently working as an Automation Specialist, where I design workflows to help repetitive processes , develop Python backend services, and manage IT infrastructure.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 B.Sc. in Computer Engineering (2023–2026)
-- 💼 Automation Specialist @ MV Medical Devices
+- 💼 Automating @ MV Medical Devices
 - 🐍 Backend Developer focused on Python ecosystems
-- ☁️ Interested in Cloud Infrastructure & DevOps
 - 🤖 Enthusiast of Machine Learning and AI Automation
 - 🌍 Fluent in English and Italian
 - 🇩🇪 Currently learning German
@@ -45,17 +44,17 @@ Currently working as an Automation Specialist, where I design cloud-based workfl
 ### Data & AI
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge)
+
 
 ---
 
 ## 📈 Current Focus
 
-- Cloud Architecture on AWS
-- Backend Development with Python & FastAPI
-- AI-powered Automation
+- Beginning to drive through Cloud Architecture on AWS
+- Frontend Development with Next.js
 - Software Reliability & Scalability
 
 ---
