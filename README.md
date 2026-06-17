@@ -32,17 +32,14 @@ Currently working as an Automation Specialist, where I design cloud-based workfl
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=4BMB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-%23E82443?style=for-the-badge&logo=pydantic&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge)
 
 ### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Data & AI
@@ -59,7 +56,6 @@ Currently working as an Automation Specialist, where I design cloud-based workfl
 - Cloud Architecture on AWS
 - Backend Development with Python & FastAPI
 - AI-powered Automation
-- Infrastructure as Code
 - Software Reliability & Scalability
 
 ---
@@ -72,4 +68,4 @@ Currently working as an Automation Specialist, where I design cloud-based workfl
 
 ---
 
-> Building reliable software that bridges cloud engineering and artificial intelligence.
+> Curious about life, passionate about technology, excited for what's next.
