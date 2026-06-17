@@ -40,6 +40,7 @@ Currently working as an Automation Specialist, where I design workflows to help 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-%233C525C.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ### Data & AI
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
