@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Hartaj Bajwa Singh
+# Hartaj Bajwa Singh
 
-🎓 Final-year Computer Engineering student at the University of Modena and Reggio Emilia.
+Final-year Computer Engineering student at the University of Modena and Reggio Emilia.
 
 I am passionate about building scalable software solutions at the intersection of **Cloud Engineering**, **Backend Development**, and **Artificial Intelligence**.
 
@@ -8,14 +8,14 @@ Currently working as an Automation Specialist, where I design workflows to help 
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 B.Sc. in Computer Engineering (2023–2026)
-- 💼 Automating @ MV Medical Devices
-- 🐍 Backend Developer focused on Python ecosystems
-- 🤖 Enthusiast of Machine Learning and AI Automation
-- 🌍 Fluent in English and Italian
-- 🇩🇪 Currently learning German
+-  B.Sc. in Computer Engineering (2023–2026)
+-  Automating @ MV Medical Devices
+-  Backend Developer focused on Python ecosystems
+-  Enthusiast of Machine Learning and AI Automation
+-  Fluent in English and Italian
+-  Currently learning German
 
 ---
 
