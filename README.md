@@ -19,7 +19,7 @@ Currently working as an Automation Specialist, where I design workflows to help 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -52,7 +52,7 @@ Currently working as an Automation Specialist, where I design workflows to help 
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 - Beginning to drive through Cloud Architecture on AWS
 - Frontend Development with Next.js
@@ -60,7 +60,7 @@ Currently working as an Automation Specialist, where I design workflows to help 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hartaj-singh)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hartaj-bajwa)
